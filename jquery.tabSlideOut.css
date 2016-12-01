@@ -21,6 +21,7 @@
     background-color: white;
     padding: 0.4em;
     box-sizing: border-box;
+    z-index: 999;
 }
 .ui-slideouttab-handle {
     cursor: pointer;
